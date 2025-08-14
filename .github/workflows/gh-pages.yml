@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
     inputs:
       save_data_in_github_cache:
-        required: false
+        required: true
         type: boolean
         default: false
       data_cache_prefix:
