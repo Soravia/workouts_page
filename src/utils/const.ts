@@ -3,7 +3,7 @@ const MAPBOX_TOKEN =
   // For security reasons, please avoid using the default public token provided by Mapbox as much as possible.
   // Instead, manually add a new token and apply URL restrictions.
   // (please refer to https://github.com/yihong0618/running_page/issues/643#issuecomment-2042668580)
-  'pk.eyJ1Ijoic29yYXZpYSIsImEiOiJjbWVhMzB2eHYwcnEzMmlxdnQ4emd5aGQ0In0.DB37LMdCEmQXg8WsQ8tLnA';
+  'pk.eyJ1Ijoic29yYXZpYSIsImEiOiJjbWViY3NjMzExMnN1MmlxdnQzZXgzNWQwIn0.R980sx8ftSetXsn57mdiMA';
 const MUNICIPALITY_CITIES_ARR = [
   '北京市',
   '上海市',
@@ -58,7 +58,7 @@ const USE_ANIMATION_FOR_GRID = false;
 //   (year === 'Total' ? '' : `，当前地图展示 ${year} 年的轨迹`);
 const CHINESE_INFO_MESSAGE = (): string =>
    `不断地向前奔跑，才能停留在原地`;
-   
+
 const ENGLISH_INFO_MESSAGE = (yearLength: number, year: string): string =>
   `Logged ${yearLength} Years of Outdoor Journey` +
   (year === 'Total' ? '' : `, the map show routes in ${year}`);
