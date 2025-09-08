@@ -1902,5 +1902,21 @@
 "elevation_gain": 6.0,
 "source": "Garmin Connect",
 "streak": 2
+},
+{
+"run_id": 1757225143000,
+"name": "\u6d66\u4e1c\u65b0\u533a \u9a91\u884c",
+"distance": 43340.99,
+"moving_time": "1:22:56.837000",
+"type": "Ride",
+"start_date": "2025-09-07 06:05:43",
+"start_date_local": "2025-09-07 14:05:43",
+"location_country": "\u73af\u6e56\u897f\u4e00\u8def, \u5357\u6c47\u65b0\u57ce\u9547, \u6d66\u4e1c\u65b0\u533a, \u4e2d\u56fd",
+"summary_polyline": "y{s{D_}dgViHwMyCyJeA_GyAmSl@{SjAuIbCoJvCwHxCmFpK{LtLuHtQyE~Gk@bJDtO~BpIzC|F`DzK`KfJ|OjCbIfBfI`ApIf@bL`@t@|r@B^}@IwH{AoUoCaQcHqUoHcPqHaLuKqL_MoJeO{HsPaFwO_CsPm@iQp@uO|B}O|E}KlF}MrJ{IjJQt@d@lAhRrTdA]pKwJpIeFbLoEvLgCdP_AfKPrLzAxMtDxKrF|I|GhIbJnHvLxEtLnD~NdB~LjApTvA^~XAp@aBQwJwByWwEwU}H_TeJ}OwM{OqK_JyQsJmNqEsR_DcTg@kU|AkThFcRnIgOdLgG~GElApQfUz@b@`NgLrJwFlLiEjL{B~Mw@fLRrLzAnKrC|LzFzIvGfJ~JbHfLhEjKfEhPpBfP~@tQ`Ad@nXHlA_@N_Bw@{T}BqRkD_P_G}PyH_O_LcOuKcKuSaMkMuEcH_BkHiAmPkAkOJkTdCoSbG{Q`KwJ~HsE`Fe@rAXbApNhQlCtB|JqIzIaGjJgE|NkDrOeA|KN|NdBdJbCtJhEbIhFfJ|IdGjI~EhJtDjK`ChJfBtLv@bJApKoTFg@k@q@sM_AmH_E{O}ImP{FqGyFmE_OuG_IeBaHo@iFEmIj@uI~AwFjBeGxCiHrFsJpLuHrQwCpOaAdR\\pMl@zFrEpRvHnO",
+"average_heartrate": 173.0,
+"average_speed": 8.704000473022461,
+"elevation_gain": 37.0,
+"source": "Garmin Connect",
+"streak": 1
 }
 ]
