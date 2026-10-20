@@ -3454,5 +3454,37 @@
 "elevation_gain": 11.0,
 "source": "Garmin Connect",
 "streak": 1
+},
+{
+"run_id": 1792412229000,
+"name": "\u6cf3\u6c60\u6e38\u6cf3",
+"distance": 600.0,
+"moving_time": "0:16:50.248000",
+"type": "Run",
+"start_date": "2026-10-19 12:17:09",
+"start_date_local": "2026-10-19 20:17:09",
+"location_country": "",
+"summary_polyline": "",
+"average_heartrate": 129.0,
+"average_speed": 0.593999981880188,
+"elevation_gain": 0.0,
+"source": "",
+"streak": 1
+},
+{
+"run_id": 1792417476000,
+"name": "\u5949\u8d24\u533a \u8dd1\u6b65",
+"distance": 7261.16,
+"moving_time": "0:43:06.337000",
+"type": "Run",
+"start_date": "2026-10-19 13:44:36",
+"start_date_local": "2026-10-19 21:44:36",
+"location_country": "\u65b0\u56db\u5e73\u516c\u8def, \u4e0a\u6d77\u6d77\u6e2f\u7efc\u5408\u5f00\u53d1\u533a, \u56db\u56e2\u9547, \u5949\u8d24\u533a, \u4e0a\u6d77\u5e02, 201422, \u4e2d\u56fd",
+"summary_polyline": "yqq{Dal_fVyR~@_@Yq@w\\p@k@w@g@q@g[Vm@Yu@Y}LmB_eA\\c@pGYpw@~AnLc@`@^Nj_A|BlkA{s@nC",
+"average_heartrate": 168.0,
+"average_speed": 2.805000066757202,
+"elevation_gain": 3.0,
+"source": "Garmin Connect",
+"streak": 1
 }
 ]
